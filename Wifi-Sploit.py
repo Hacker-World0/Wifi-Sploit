@@ -183,10 +183,10 @@ def intro():
         cmd = os.system("clear")
         print("""
 Hi.
-My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
+My Name is Dark-Way, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on Youtube-https://www.youtube.com/channel/UCU0MrmtfuxYeW1tDJVWZdxA/
 
-Contact me https://www.github.comDark-Way
+Contact me https://www.github.com/Dark-Way
 
 Feel Free to Contact,
 
