@@ -7,7 +7,7 @@
 
 
 
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+# Wifi-Sploit.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
 
 
 
@@ -60,8 +60,8 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 ```bash
 1) sudo apt-get update && apt-get install git
 2) sudo git clone https://github.com/Dark-Way/Wifi-Sploit.git
-3) cd Wifi-Hacking/
-4) sudo python3 Wifi-Hacking.py
+3) cd Wifi-Sploit/
+4) sudo python3 Wifi-Sploit.py
 ```
 
 ## Creator
@@ -112,7 +112,7 @@ Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it on
 > Pull requests are always welcome.. :)  
 
 
-### Donet Us........
+## Donet Us........
 
 ## Coinbase Address-3BLR3LWsLeQMnYik7R6ygGcefmEzZg3ddS
 
