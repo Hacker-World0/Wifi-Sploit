@@ -66,7 +66,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ## Creator
 
-https://github.com/Dark-Way   (Dark-Way)
+https://github.com/Hacker World0   (Dark-Way)
 
 
 # SCREENSHOT
@@ -90,14 +90,14 @@ https://github.com/Dark-Way   (Dark-Way)
 
 
 
-- [Github](https://github.com/Dark-Way)
+- [Github](https://github.com/Hacker World0)
 
 
 - [Facebook](https://www.facebook.com/hackerworld09)
  
 - [Youtube](https://www.youtube.com/channel/UCU0MrmtfuxYeW1tDJVWZdxA)
 
-- [Instagram](https://www.instagram.com/hackerworld021/)
+
 
 ### Youtube: Hacker World0   - [Click Hear](https://www.youtube.com/channel/UCU0MrmtfuxYeW1tDJVWZdxA)
 
